@@ -4,7 +4,6 @@ import SummaryApi from "../common";
 import { FaStar } from "react-icons/fa";
 import { FaStarHalf } from "react-icons/fa";
 import displayINRCurrency from "../Helpers/displayINRCurrency";
-import VerticalCardProduct from "../Components/VerticalCardProduct";
 
 import addToCart from "../Helpers/addtoCart";
 import Context from "../context";

@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
 import fetchCategoryWiseProduct from "../Helpers/fetchCategoryWiseProduct";
 import displayINRCurrency from "../Helpers/displayINRCurrency";
-import { FaAngleLeft, FaAngleRight } from "react-icons/fa6";
+
 import { Link } from "react-router-dom";
 import addToCart from "../Helpers/addtoCart";
 import Context from "../context";

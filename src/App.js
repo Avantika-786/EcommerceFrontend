@@ -1,9 +1,8 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Outlet } from "react-router-dom";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
-import { Toaster, toast } from "react-hot-toast";
+import { Toaster } from "react-hot-toast";
 import { useEffect, useState } from "react";
 import summaryapi from "./common/index";
 import Context from "./context/index";
