@@ -23,7 +23,7 @@ function Home() {
       ></VerticalCardProduct>
       <VerticalCardProduct
         category={"mouse"}
-        heading={"Top's Mobiles"}
+        heading={"Top's Mouses"}
       ></VerticalCardProduct>
     </div>
   );
