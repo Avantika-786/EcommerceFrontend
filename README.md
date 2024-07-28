@@ -1,5 +1,5 @@
-Introduction : 
 
+Introduction : 
     A web-based platform for buying and selling electronic gadgets among customers.
     Built using MERN stack(MongoDB, Express, React, and Node.js).  
     Implemented a comprehensive admin panel using React.js for managing products, 
